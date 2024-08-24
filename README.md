@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **VeerGosai/VeerGosai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Veer</h2>
+<h1> Hey there! I'm Veer</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
