@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Veer</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -48,7 +46,7 @@ Here are some ideas to get you started:
   ![InkScape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=inkscape)
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/VeerGosai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeerGosai&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerGosai&theme=buefy&layout=compact" />
 </a>
