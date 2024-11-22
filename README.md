@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying BsC in GeoInfomatics with Computer Science at Stellenbosch University
-- 💼 &nbsp; Working SA Papers Education 
+- 💼 &nbsp; Working at Taptic (An EdTech Startup)
 - ✍️ &nbsp; Pursuing Web Design and Educational Platform Development as side hustles
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
