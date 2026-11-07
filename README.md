@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hey there! I'm Veer</h1>
+<h1> Hey there! I'm Veer, a cybersecurity researcher and developer</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying BsC in GeoInfomatics with Computer Science at Stellenbosch University
-- 
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
